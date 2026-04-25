@@ -1,0 +1,92 @@
+customerid,companyname,contactname,contacttitle,city,country
+ALFKI,Alfreds Futterkiste,Maria Anders,Sales Representative,Berlin,Germany
+ANATR,Ana Trujillo Emparedados Y Helados,Ana Trujillo,Owner,Mexico City,Mexico
+ANTON,Antonio Moreno Taquería,Antonio Moreno,Owner,Mexico City,Mexico
+AROUT,Around The Horn,Thomas Hardy,Sales Representative,London,Uk
+BERGS,Berglunds Snabbköp,Christina Berglund,Order Administrator,Luleå,Sweden
+BLAUS,Blauer See Delikatessen,Hanna Moos,Sales Representative,Mannheim,Germany
+BLONP,Blondesddsl Père Et Fils,Frédérique Citeaux,Marketing Manager,Strasbourg,France
+BOLID,Bólido Comidas Preparadas,Martín Sommer,Owner,Madrid,Spain
+BONAP,Bon App',Laurence Lebihan,Owner,Marseille,France
+BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Accounting Manager,Tsawassen,Canada
+BSBEV,B'S Beverages,Victoria Ashworth,Sales Representative,London,Uk
+CACTU,Cactus Comidas Para Llevar,Patricio Simpson,Sales Agent,Buenos Aires,Argentina
+CENTC,Centro Comercial Moctezuma,Francisco Chang,Marketing Manager,Mexico City,Mexico
+CHOPS,Chop-Suey Chinese,Yang Wang,Owner,Bern,Switzerland
+COMMI,Comércio Mineiro,Pedro Afonso,Sales Associate,Sao Paulo,Brazil
+CONSH,Consolidated Holdings,Elizabeth Brown,Sales Representative,London,Uk
+DRACD,Drachenblut Delikatessen,Sven Ottlieb,Order Administrator,Aachen,Germany
+DUMON,Du Monde Entier,Janine Labrune,Owner,Nantes,France
+EASTC,Eastern Connection,Ann Devon,Sales Agent,London,Uk
+ERNSH,Ernst Handel,Roland Mendel,Sales Manager,Graz,Austria
+FAMIA,Familia Arquibaldo,Aria Cruz,Marketing Assistant,Sao Paulo,Brazil
+FISSA,Fissa Fabrica Inter. Salchichas S.A.,Diego Roel,Accounting Manager,Madrid,Spain
+FOLIG,Folies Gourmandes,Martine Rancé,Assistant Sales Agent,Lille,France
+FOLKO,Folk Och Fä Hb,Maria Larsson,Owner,Bräcke,Sweden
+FRANK,Frankenversand,Peter Franken,Marketing Manager,München,Germany
+FRANR,France Restauration,Carine Schmitt,Marketing Manager,Nantes,France
+FRANS,Franchi S.P.A.,Paolo Accorti,Sales Representative,Torino,Italy
+FURIB,Furia Bacalhau E Frutos Do Mar,Lino Rodriguez,Sales Manager,Lisboa,Portugal
+GALED,Galería Del Gastrónomo,Eduardo Saavedra,Marketing Manager,Barcelona,Spain
+GODOS,Godos Cocina Típica,José Pedro Freyre,Sales Manager,Sevilla,Spain
+GOURL,Gourmet Lanchonetes,André Fonseca,Sales Associate,Campinas,Brazil
+GREAL,Great Lakes Food Market,Howard Snyder,Marketing Manager,Eugene,Usa
+GROSR,Grosella-Restaurante,Manuel Pereira,Owner,Caracas,Venezuela
+HANAR,Hanari Carnes,Mario Pontes,Accounting Manager,Rio De Janeiro,Brazil
+HILAA,Hilarion-Abastos,Carlos Hernández,Sales Representative,San Cristóbal,Venezuela
+HUNGC,Hungry Coyote Import Store,Yoshi Latimer,Sales Representative,Elgin,Usa
+HUNGO,Hungry Owl All-Night Grocers,Patricia Mckenna,Sales Associate,Cork,Ireland
+ISLAT,Island Trading,Helen Bennett,Marketing Manager,Cowes,Uk
+KOENE,Königlich Essen,Philip Cramer,Sales Associate,Brandenburg,Germany
+LACOR,La Corne D'Abondance,Daniel Tonini,Sales Representative,Versailles,France
+LAMAI,La Maison D'Asie,Annette Roulet,Sales Manager,Toulouse,France
+LAUGB,Laughing Bacchus Wine Cellars,Yoshi Tannamuri,Marketing Assistant,Vancouver,Canada
+LAZYK,Lazy K Kountry Store,John Steel,Marketing Manager,Walla Walla,Usa
+LEHMS,Lehmanns Marktstand,Renate Messner,Sales Representative,Frankfurt A.M.,Germany
+LETSS,Let'S Stop N Shop,Jaime Yorres,Owner,San Francisco,Usa
+LILAS,Lila-Supermercado,Carlos González,Accounting Manager,Barquisimeto,Venezuela
+LINOD,Lino-Delicateses,Felipe Izquierdo,Owner,I. De Margarita,Venezuela
+LONEP,Lonesome Pine Restaurant,Fran Wilson,Sales Manager,Portland,Usa
+MAGAA,Magazzini Alimentari Riuniti,Giovanni Rovelli,Marketing Manager,Bergamo,Italy
+MAISD,Maison Dewey,Catherine Dewey,Sales Agent,Bruxelles,Belgium
+MEREP,Mère Paillarde,Jean Fresnière,Marketing Assistant,Montréal,Canada
+MORGK,Morgenstern Gesundkost,Alexander Feuer,Marketing Assistant,Leipzig,Germany
+NORTS,North/South,Simon Crowther,Sales Associate,London,Uk
+OCEAN,Océano Atlántico Ltda.,Yvonne Moncada,Sales Agent,Buenos Aires,Argentina
+OLDWO,Old World Delicatessen,Rene Phillips,Sales Representative,Anchorage,Usa
+OTTIK,Ottilies Käseladen,Henriette Pfalzheim,Owner,Köln,Germany
+PARIS,Paris Spécialités,Marie Bertrand,Owner,Paris,France
+PERIC,Pericles Comidas Clásicas,Guillermo Fernández,Sales Representative,Mexico City,Mexico
+PICCO,Piccolo Und Mehr,Georg Pipps,Sales Manager,Salzburg,Austria
+PRINI,Princesa Isabel Vinhos,Isabel De Castro,Sales Representative,Lisboa,Portugal
+QUEDE,Que Delícia,Bernardo Batista,Accounting Manager,Rio De Janeiro,Brazil
+QUEEN,Queen Cozinha,Lúcia Carvalho,Marketing Assistant,Sao Paulo,Brazil
+QUICK,Quick-Stop,Horst Kloss,Accounting Manager,Cunewalde,Germany
+RANCH,Rancho Grande,Sergio Gutiérrez,Sales Representative,Buenos Aires,Argentina
+RATTC,Rattlesnake Canyon Grocery,Paula Wilson,Assistant Sales Representative,Albuquerque,Usa
+REGGC,Reggiani Caseifici,Maurizio Moroni,Sales Associate,Reggio Emilia,Italy
+RICAR,Ricardo Adocicados,Janete Limeira,Assistant Sales Agent,Rio De Janeiro,Brazil
+RICSU,Richter Supermarkt,Michael Holz,Sales Manager,Genève,Switzerland
+ROMEY,Romero Y Tomillo,Alejandra Camino,Accounting Manager,Madrid,Spain
+SANTG,Santé Gourmet,Jonas Bergulfsen,Owner,Stavern,Norway
+SAVEA,Save-A-Lot Markets,Jose Pavarotti,Sales Representative,Boise,Usa
+SEVES,Seven Seas Imports,Hari Kumar,Sales Manager,London,Uk
+SIMOB,Simons Bistro,Jytte Petersen,Owner,Kobenhavn,Denmark
+SPECD,Spécialités Du Monde,Dominique Perrier,Marketing Manager,Paris,France
+SPLIR,Split Rail Beer & Ale,Art Braunschweiger,Sales Manager,Lander,Usa
+SUPRD,Suprêmes Délices,Pascale Cartrain,Accounting Manager,Charleroi,Belgium
+THEBI,The Big Cheese,Liz Nixon,Marketing Manager,Portland,Usa
+THECR,The Cracker Box,Liu Wong,Marketing Assistant,Butte,Usa
+TOMSP,Toms Spezialitäten,Karin Josephs,Marketing Manager,Münster,Germany
+TORTU,Tortuga Restaurante,Miguel Angel Paolino,Owner,Mexico City,Mexico
+TRADH,Tradição Hipermercados,Anabela Domingues,Sales Representative,Sao Paulo,Brazil
+TRAIH,Trail'S Head Gourmet Provisioners,Helvetius Nagy,Sales Associate,Kirkland,Usa
+VAFFE,Vaffeljernet,Palle Ibsen,Sales Manager,Århus,Denmark
+VICTE,Victuailles En Stock,Mary Saveley,Sales Agent,Lyon,France
+VINET,Vins Et Alcools Chevalier,Paul Henriot,Accounting Manager,Reims,France
+WANDK,Die Wandernde Kuh,Rita Müller,Sales Representative,Stuttgart,Germany
+WARTH,Wartian Herkku,Pirkko Koskitalo,Accounting Manager,Oulu,Finland
+WELLI,Wellington Importadora,Paula Parente,Sales Manager,Resende,Brazil
+WHITC,White Clover Markets,Karl Jablonski,Owner,Seattle,Usa
+WILMK,Wilman Kala,Matti Karttunen,Owner/Marketing Assistant,Helsinki,Finland
+WOLZA,Wolski  Zajazd,Zbyszek Piestrzeniewicz,Owner,Warszawa,Poland
