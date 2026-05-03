@@ -34,7 +34,6 @@ Este repositorio documenta el **Business Understanding** y la arquitectura inici
 - DSS para decisiones logísticas.
 - Modelado dimensional (Star Schema: grain, dimensiones, hechos).
 - Staging area y capa de presentación.
-- Pipeline de datos (si es viable).
 
 ### 5. Decision Points
 - Mercados prioritarios para expansión.
